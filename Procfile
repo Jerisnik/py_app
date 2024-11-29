@@ -1,0 +1,1 @@
+web: gunicorn ONPRIME_PROJ.wsgi
